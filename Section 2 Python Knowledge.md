@@ -24,7 +24,7 @@ from openpyxl.utils import get_column_letter
 ```
 
 ### 1) Configuration and Load data into a dataframe
-If to see the outcome in another sheet, please rename OUT_SHEET to avoid overwrite
+If to see the outcome in another sheet, please rename OUT_SHEET to avoid overwrite.
 ```bash
 INPUT_XLSX = "excel_sample_data_de.xlsx"
 RAW_SHEET  = "sql_test-raw"
@@ -58,7 +58,7 @@ agg["profit"] = agg["sales_amt"] - agg["sales_cost"]
 ```
 
 ### 5) Compute monthly category totals
-This is to get the totals for each month by category
+This is to get the totals for each month by category.
 ```bash
 totals = (
     agg.groupby(["month","category"], as_index=False)
