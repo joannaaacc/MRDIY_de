@@ -154,3 +154,5 @@ ORDER BY product, category
 
 EXECUTE IMMEDIATE sql;
 ```
+### Section 2 Question 2 Expected Outcome:
+<img width="1579" height="239" alt="{C1BC7CFF-CC94-4702-A426-3485700D8DFD}" src="https://github.com/user-attachments/assets/579de036-d8bd-43cb-abd6-a88025d99a77" />
