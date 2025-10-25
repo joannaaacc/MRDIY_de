@@ -1,2 +1,2 @@
 # MRDIY_de
-This is an SQL and Python knowledge test of MRDIY Data Engineer take home assessment
+This is an Excel, SQL and Python knowledge test of MRDIY Junior Data Engineer take home assessment
